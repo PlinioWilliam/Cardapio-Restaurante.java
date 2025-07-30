@@ -54,8 +54,3 @@ S,102,Suco de Limão,copo,6.00
 - Correção dos métodos e implementação das regras.
 - Clareza, organização e comentários no código.
 - Penalidades para atrasos ou cópias.
-
-## 📅 Entrega
-
-Entrega no Moodle até **17/06** com os seguintes arquivos `.java`:
-- Produto, Refrigerante, Suco, Buffet, Atendimento, Pedido, ItemPedido, Restaurante
