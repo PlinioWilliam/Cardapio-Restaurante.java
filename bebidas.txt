@@ -1,0 +1,8 @@
+tipo, codigo, nome, unidadeVenda, precoUnitario
+R, 12, Coca-Cola, lata, 5.00
+R, 13, Coca-Cola Zero, lata, 7.50
+R, 14, Sprite, lata, 5.00
+R, 15, Sprite Zero, lata, 7.50
+S, 20, Laranja, copo, 6.00
+S, 21, Limão, copo, 6.00
+S, 22, Acerola, copo, 6.00
